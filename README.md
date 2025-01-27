@@ -113,10 +113,10 @@
             <img src="https://img.shields.io/badge/Innovation%20and%20Creativity-1976D2?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovation and Creativity" />
         </div>
         <div style="text-align: center;">
-            <img src="https://img.shields.io/badge/Planning%20and%20Time%20Management-2196F3?style=for-the-badge&logo=clock&logoColor=white" alt="Planning and Time Management" />
+            <img src="https://img.shields.io/badge/Analysis%20and%20Problem%20Solving-0D47A1?style=for-the-badge&logo=analytics&logoColor=white" alt="Analysis and Problem Solving" />
         </div>
         <div style="text-align: center;">
-            <img src="https://img.shields.io/badge/Analysis%20and%20Problem%20Solving-0D47A1?style=for-the-badge&logo=analytics&logoColor=white" alt="Analysis and Problem Solving" />
+            <img src="https://img.shields.io/badge/Planning%20and%20Time%20Management-2196F3?style=for-the-badge&logo=clock&logoColor=white" alt="Planning and Time Management" />
         </div>
         <div style="text-align: center;">
             <img src="https://img.shields.io/badge/Leadership%20and%20Effective%20Communication-1E88E5?style=for-the-badge&logo=megaphone&logoColor=white" alt="Leadership and Effective Communication" />
