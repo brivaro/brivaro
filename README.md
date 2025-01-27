@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BrianValiente.BrianValiente" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brian+Valiente!;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brian+Valiente+Ródenas!;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
-<h3 align="center">Big Data & AI Engineer | Science Communicator | Valencia, España</h3>
+<h3 align="center">🚀 Big Data & AI Engineer | Science Communicator | Lifelong Learner 🌍</h3>
 
 <div align="center">
  
- 🔭 I’m currently working on **Mastering AI and Big Data Technologies**
+ 🔭 I’m currently working on **Computer Engineering Master, AI and Big Data Technologies**
  
  🌱 I’m currently learning **Kubernetes, APISIX, Advanced Docker Networking**
 
@@ -34,8 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,go,javascript,typescript,mysql,postgresql,sqlite,azure,docker,kubernetes,git,github,vscode,linux,pytorch,tensorflow,databricks" /><br>
-    <img src="https://skillicons.dev/icons?i=powerbi,react,nextjs,html,css,tailwind,figma,fastapi,flask" />
+    <img src="https://skillicons.dev/icons?i=python,java,go,javascript,typescript,mysql,postgresql,sqlite,azure,docker,kubernetes,git,github,vscode,linux,pytorch,tensorflow,databricks,powerbi,react,nextjs,html,css,tailwind,figma,fastapi,flask" /><br>
 </div>
 
 <br/>
@@ -69,6 +68,41 @@
 - Graduated: Jun. 2024
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🎖️ Awards and Recognitions 🎖️</h2>
+  <br>
+  <ul>
+    <li><b>2024</b> - Course on Integration of Home/Building Automation Systems</li>
+    <li><b>2024</b> - Training in AI Systems</li>
+    <li><b>2024</b> - Basic AWS Course</li>
+    <li><b>2024</b> - Data Science and Storytelling Course</li>
+    <li><b>2023</b> - AI+NoCode & UX/UI Training</li>
+    <li><b>2022</b> - Tutor Training for 1st-year Students</li>
+    <li><b>2021</b> - Finalist at the Internet Awards</li>
+    <li><b>2019</b> - Stay with an English Family</li>
+    <li><b>2014–2018</b> - Extraordinary Academic Performance Award (Primary, Secondary, High School)</li>
+  </ul>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🌟 Core Competencies 🌟</h2>
+  <br>
+  <ul>
+    <li>Planning and Time Management</li>
+    <li>Innovation and Creativity</li>
+    <li>Leadership and Effective Communication</li>
+    <li>Teamwork</li>
+    <li>Lifelong Learning</li>
+    <li>Adaptability</li>
+    <li>Analysis and Problem Solving</li>
+  </ul>
+</div>
+
 <hr/>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
