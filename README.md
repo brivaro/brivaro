@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,go,javascript,typescript,mysql,postgresql,sqlite,azure,docker,kubernetes,git,github,vscode,linux,pytorch,tensorflow,databricks,powerbi,react,nextjs,html,css,tailwind,figma,fastapi,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,go,javascript,typescript,mysql,postgresql,sqlite,azure,docker,kubernetes,git,github,vscode,linux,pytorch,tensorflow,react,nextjs,html,css,tailwind,figma,fastapi,flask" /><br>
 </div>
 
 <br/>
