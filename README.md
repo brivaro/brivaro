@@ -119,7 +119,7 @@
             <img src="https://img.shields.io/badge/Planning%20and%20Time%20Management-FFCC00?style=for-the-badge&logo=clock&logoColor=white" alt="Planning and Time Management" />
         </div>
         <div style="text-align: center;">
-            <img src="https://img.shields.io/badge/Leadership%20and%20Effective%20Communication-00FF99?style=for-the-badge&logo=megaphone&logoColor=white" alt="Leadership and Effective Communication" />
+            <img src="https://img.shields.io/badge/Leadership%20and%20Effective%20Communication-00CC99?style=for-the-badge&logo=megaphone&logoColor=white" alt="Leadership and Effective Communication" />
         </div>
     </div>
 </div>
