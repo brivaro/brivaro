@@ -110,7 +110,7 @@
             <img src="https://img.shields.io/badge/Lifelong%20Learning-2196F3?style=for-the-badge&logo=book&logoColor=white" alt="Lifelong Learning" />
         </div>
         <div style="text-align: center;">
-            <img src="https://img.shields.io/badge/Innovation%20and%20Creativity-1E88E5?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovation and Creativity" />
+            <img src="https://img.shields.io/badge/Innovation%20and%20Creativity-FF00FF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovation and Creativity" />
         </div>
         <div style="text-align: center;">
             <img src="https://img.shields.io/badge/Analysis%20and%20Problem%20Solving-1565C0?style=for-the-badge&logo=analytics&logoColor=white" alt="Analysis and Problem Solving" />
