@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brian+Valiente+Ródenas!+🚀;Welcome+to+my+GitHub+Profile!+💬" />
 </h1>
 
-<h3 align="center">📊 Big Data & AI Engineer | Science Communicator | Business | Lifelong Learner 🌍</h3>
+<h3 align="center">📊 Big Data & AI Engineer | 🧪 Science Communicator | 👛 Business | 🌍 Lifelong Learner</h3>
 
 <div align="center">
  
- 🔭 I’m currently working on **Computer Engineering Master, AI and Big Data Technologies**
+🔭 I’m currently working on **Computer Engineering Master, AI and Big Data Technologies**
  
- 🌱 I’m currently learning **Kubernetes, APISIX, Advanced Docker Networking**
+🌱 I’m currently learning **Kubernetes, APISIX, Advanced Docker Networking**
 
 💬 Ask me about **Machine Learning, Data Engineering, or Open Source Projects**
 
