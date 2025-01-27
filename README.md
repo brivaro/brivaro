@@ -101,10 +101,10 @@
 <div align="center">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
         <div style="text-align: center;">
-            <img src="https://img.shields.io/badge/Teamwork-66BB6A?style=for-the-badge&logo=users&logoColor=white" alt="Teamwork" />
+            <img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logo=users&logoColor=white" alt="Teamwork" />
         </div>
         <div style="text-align: center;">
-            <img src="https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge&logo=adjust&logoColor=white" alt="Adaptability" />
+            <img src="https://img.shields.io/badge/Adaptability-FF6600?style=for-the-badge&logo=adjust&logoColor=white" alt="Adaptability" />
         </div>
         <div style="text-align: center;">
             <img src="https://img.shields.io/badge/Lifelong%20Learning-2196F3?style=for-the-badge&logo=book&logoColor=white" alt="Lifelong Learning" />
