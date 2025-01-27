@@ -64,35 +64,40 @@
 <h2 align="center">🎓 Education 🎓</h2>
 
 **Universidad Politécnica de Valencia**
-- Ingeniería de Informática (Matrícula de Honor en el Trabajo de Fin de Grado)
+- Máster Ingeniería Informática (Matrícula de Honor en el Trabajo de Fin de Grado)
+- Finished: Not yet
+
+**Universidad Politécnica de Valencia**
+- Grado Ingeniería Informática (Matrícula de Honor en el Trabajo de Fin de Grado)
 - Graduated: Jun. 2024
 
 <br/>
 <hr/>
 
 <h2 align="center">🎖️ Awards and Recognitions 🎖️</h2>
-- Course on Integration of Home/Building Automation Systems
-- Training in AI Systems
-- Basic AWS Course
-- Data Science and Storytelling Course
-- AI+NoCode & UX/UI Training
-- Tutor Training for 1st-year Students
-- Finalist at the Internet Awards
-- Stay with an English Family
-- Extraordinary Academic Performance Award (Primary, Secondary, High School)
+- Course on Integration of Home/Building Automation Systems.
+- Training in AI Systems.
+- Basic AWS Course.
+- Data Science and Storytelling Course.
+- AI+NoCode & UX/UI Training.
+- Tutor Training for 1st-year Students.
+- Finalist at the Internet Awards.
+- Stay with an English Family.
+- Extraordinary Academic Performance Award (Primary, Secondary, High School).
 
 <br/>
 <hr/>
 
 <h2 align="center">🌟 Core Competencies 🌟</h2>
-- Planning and Time Management
-- Innovation and Creativity
-- Leadership and Effective Communication
-- Teamwork
-- Lifelong Learning
-- Adaptability
-- Analysis and Problem Solving
+- Planning and Time Management.
+- Innovation and Creativity.
+- Leadership and Effective Communication.
+- Teamwork.
+- Lifelong Learning.
+- Adaptability.
+- Analysis and Problem Solving.
 
+<br/>
 <hr/>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
