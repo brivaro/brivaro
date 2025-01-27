@@ -98,14 +98,31 @@
 <hr/>
 
 <h2 align="center">🌟 Core Competencies 🌟</h2>
-
-- Planning and Time Management.
-- Innovation and Creativity.
-- Leadership and Effective Communication.
-- Teamwork.
-- Lifelong Learning.
-- Adaptability.
-- Analysis and Problem Solving.
+<div align="center">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+        <div style="text-align: center;">
+            <img src="https://img.shields.io/badge/Planning%20and%20Time%20Management-4CAF50?style=for-the-badge&logo=clock&logoColor=white" alt="Planning and Time Management" />
+        </div>
+        <div style="text-align: center;">
+            <img src="https://img.shields.io/badge/Innovation%20and%20Creativity-00BCD4?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovation and Creativity" />
+        </div>
+        <div style="text-align: center;">
+            <img src="https://img.shields.io/badge/Leadership%20and%20Effective%20Communication-FF5722?style=for-the-badge&logo=megaphone&logoColor=white" alt="Leadership and Effective Communication" />
+        </div>
+        <div style="text-align: center;">
+            <img src="https://img.shields.io/badge/Teamwork-FFC107?style=for-the-badge&logo=users&logoColor=white" alt="Teamwork" />
+        </div>
+        <div style="text-align: center;">
+            <img src="https://img.shields.io/badge/Lifelong%20Learning-2196F3?style=for-the-badge&logo=book&logoColor=white" alt="Lifelong Learning" />
+        </div>
+        <div style="text-align: center;">
+            <img src="https://img.shields.io/badge/Adaptability-9C27B0?style=for-the-badge&logo=adjust&logoColor=white" alt="Adaptability" />
+        </div>
+        <div style="text-align: center;">
+            <img src="https://img.shields.io/badge/Analysis%20and%20Problem%20Solving-E91E63?style=for-the-badge&logo=analytics&logoColor=white" alt="Analysis and Problem Solving" />
+        </div>
+    </div>
+</div>
 
 <br/>
 <hr/>
