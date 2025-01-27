@@ -76,22 +76,22 @@
 
 <h2 align="center">🎖️ Awards and Recognitions 🎖️</h2>
 
-awards/
+###awards/
 ├── 2024/
-│   ├── integration_home_building_systems.md    # Course on Integration of Home/Building Automation Systems.
-│   ├── ai_systems_training.md                 # Training in AI Systems.
-│   ├── aws_basic_course.md                    # Basic AWS Course.
-│   └── data_science_storytelling.md           # Data Science and Storytelling Course.
+│   ├── Course on Integration of Home/Building Automation Systems.
+│   ├── Training in AI Systems.
+│   ├── Basic AWS Course.
+│   └── Data Science and Storytelling Course.
 ├── 2023/
-│   └── ai_nocode_ux_ui.md                     # AI+NoCode & UX/UI Training.
+│   └── AI+NoCode & UX/UI Training.
 ├── 2022/
-│   └── tutor_training.md                      # Tutor Training for 1st-year Students.
+│   └── Tutor Training for 1st-year Students.
 ├── 2021/
-│   └── internet_awards_finalist.md            # Finalist at the Internet Awards.
+│   └── Finalist at the Internet Awards.
 ├── 2020/
-│   └── english_family_stay.md                 # Stay with an English Family.
+│   └── Stay with an English Family.
 └── 2014-2018/
-    └── extraordinary_academic_award.md        # Extraordinary Academic Performance Award (Primary, Secondary, High School).
+    └── Extraordinary Academic Performance Award (Primary, Secondary, High School).
 
 <br/>
 <hr/>
