@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BrianValiente.BrianValiente" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brian+Valiente+Ródenas!;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brian+Valiente+Ródenas!+🚀;Welcome+to+my+GitHub+Profile!+💬" />
 </h1>
 
-<h3 align="center">🚀 Big Data & AI Engineer | Science Communicator | Lifelong Learner 🌍</h3>
+<h3 align="center">📊 Big Data & AI Engineer | Science Communicator | Business | Lifelong Learner 🌍</h3>
 
 <div align="center">
  
@@ -70,38 +70,28 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🎖️ Awards and Recognitions 🎖️</h2>
-  <br>
-  <ul>
-    <li><b>2024</b> - Course on Integration of Home/Building Automation Systems</li>
-    <li><b>2024</b> - Training in AI Systems</li>
-    <li><b>2024</b> - Basic AWS Course</li>
-    <li><b>2024</b> - Data Science and Storytelling Course</li>
-    <li><b>2023</b> - AI+NoCode & UX/UI Training</li>
-    <li><b>2022</b> - Tutor Training for 1st-year Students</li>
-    <li><b>2021</b> - Finalist at the Internet Awards</li>
-    <li><b>2019</b> - Stay with an English Family</li>
-    <li><b>2014–2018</b> - Extraordinary Academic Performance Award (Primary, Secondary, High School)</li>
-  </ul>
-</div>
+<h2 align="center">🎖️ Awards and Recognitions 🎖️</h2>
+- Course on Integration of Home/Building Automation Systems
+- Training in AI Systems
+- Basic AWS Course
+- Data Science and Storytelling Course
+- AI+NoCode & UX/UI Training
+- Tutor Training for 1st-year Students
+- Finalist at the Internet Awards
+- Stay with an English Family
+- Extraordinary Academic Performance Award (Primary, Secondary, High School)
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🌟 Core Competencies 🌟</h2>
-  <br>
-  <ul>
-    <li>Planning and Time Management</li>
-    <li>Innovation and Creativity</li>
-    <li>Leadership and Effective Communication</li>
-    <li>Teamwork</li>
-    <li>Lifelong Learning</li>
-    <li>Adaptability</li>
-    <li>Analysis and Problem Solving</li>
-  </ul>
-</div>
+<h2 align="center">🌟 Core Competencies 🌟</h2>
+- Planning and Time Management
+- Innovation and Creativity
+- Leadership and Effective Communication
+- Teamwork
+- Lifelong Learning
+- Adaptability
+- Analysis and Problem Solving
 
 <hr/>
 
