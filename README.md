@@ -16,8 +16,6 @@
 
 ⚡ Fun fact **I manage a science channel with over 16K followers!**
 
-📧 Email: brian.1613.bv@gmail.com | 📍 Based in Valencia, España
-
 </div>
 
 <div align="center"> 
@@ -26,6 +24,9 @@
   </a>
   <a href="https://linkedin.com/in/brian-valiente-rodenas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://brian.jeje" target="_blank">
+    <img src="https://img.shields.io/badge/Brian-ReadCV?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank" />
   </a>
 </div>
 
