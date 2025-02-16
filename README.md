@@ -65,7 +65,7 @@
 <h2 align="center">🎓 Education 🎓</h2>
 
 **Universidad Politécnica de Valencia**
-- Máster Ingeniería Informática (Matrícula de Honor en el Trabajo de Fin de Grado)
+- Máster Ingeniería Informática (¿Matrícula de Honor en el Trabajo de Fin de Máster? may be)
 - Finished: Not yet
 
 **Universidad Politécnica de Valencia**
