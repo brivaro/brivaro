@@ -37,22 +37,16 @@
 <div align="center">
     <!-- 🤖 Inteligencia Artificial -->
     <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch" /><br>
-    
     <!-- 💻 Programación -->
     <img src="https://skillicons.dev/icons?i=java,go,javascript,typescript" /><br>
-    
     <!-- 🗄️ Bases de Datos -->
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" /><br>
-    
     <!-- ☁️ Cloud & Contenedores -->
     <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes" /><br>
-    
     <!-- 🛠️ Herramientas de Desarrollo -->
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /><br>
-    
     <!-- 🌐 Desarrollo Web -->
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,fastapi,flask" /><br>
-    
     <!-- 🎨 Diseño -->
     <img src="https://skillicons.dev/icons?i=figma" /><br>
 </div>
