@@ -35,20 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <!-- 🤖 Inteligencia Artificial -->
-    <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch" /><br>
-    <!-- 💻 Programación -->
-    <img src="https://skillicons.dev/icons?i=java,go,javascript,typescript" /><br>
-    <!-- 🗄️ Bases de Datos -->
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" /><br>
-    <!-- ☁️ Cloud & Contenedores -->
-    <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes" /><br>
-    <!-- 🛠️ Herramientas de Desarrollo -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /><br>
-    <!-- 🌐 Desarrollo Web -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,fastapi,flask" /><br>
-    <!-- 🎨 Diseño -->
-    <img src="https://skillicons.dev/icons?i=figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,java,mysql,postgresql,sqlite,azure,docker,kubernetes,git,github,vscode,linux,go,javascript,typescript,react,nextjs,html,css,tailwind,figma,fastapi,flask" /><br>
 </div>
 
 <br/>
