@@ -32,10 +32,10 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
-<div align="center">
+<div>
 <table>
   <tr>
     <th>AI/ML</th>
@@ -132,7 +132,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">💼 Professional Experience 💼</h2>
+<h2>💼 Professional Experience 💼</h2>
 
 ### HP | Big Data & AI Engineer  
 **Valencia, Spain** • Jan. 2024 – Jul. 2024  
@@ -162,7 +162,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">🎓 Education 🎓</h2>
+<h2>🎓 Education 🎓</h2>
 
 **Polytechnic University of Valencia**  
 - **Master’s in Computer Engineering** (In progress)  
@@ -173,7 +173,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">🎯 Professional Objective 🎯</h2>
+<h2>🎯 Professional Objective 🎯</h2>
 
 I am a Computer Engineer specializing in Artificial Intelligence and Machine Learning, with over **1 year of experience** in the Big Data & AI field. My expertise ranges from data process automation to the integration and deployment of predictive models, enabling tech companies to optimize strategic decision-making.
 
@@ -181,7 +181,7 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
 <hr/>
 
 
-<h2 align="center">🎖️ Awards and Recognitions 🎖️</h2>
+<h2>🎖️ Awards and Recognitions 🎖️</h2>
 
     awards/
     ├── 2024/
@@ -210,7 +210,7 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
 <br/>
 <hr/>
 
-<h2 align="center">🌟 Core Competencies 🌟</h2>
+<h2>🌟 Core Competencies 🌟</h2>
 <div align="center">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
         <div style="text-align: center;">
@@ -250,7 +250,7 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brivaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -261,7 +261,7 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
 <br/>
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2>🐍 My Contributions 🐍</h2>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brivaro/brivaro/output/pacman-contribution-graph-dark.svg">
