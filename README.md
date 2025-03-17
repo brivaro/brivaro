@@ -35,82 +35,97 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
-### AI/ML
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikit-learn logo" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
-</div>
-
-### Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-</div>
-
-### Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
-
-### Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-</div>
-
-### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
-</div>
-
-### DevOps
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
-</div>
-
-### Tools / IDEs
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-</div>
-
-### Game / 3D
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
-</div>
-
-### Testing
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo" />
-</div>
-
+<table>
+  <tr>
+    <th>AI/ML</th>
+    <th>Programming Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikit-learn logo" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
+      <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+      <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+      <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <th>Backend</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+      <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+      <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend</th>
+    <th>DevOps</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
+    </td>
+  </tr>
+  <tr>
+    <th>Tools / IDEs</th>
+    <th>Game / 3D</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
+    </td>
+  </tr>
+  <tr>
+    <th>Testing</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 <br/>
 <hr/>
