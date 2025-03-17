@@ -134,7 +134,7 @@
 
 <h2>💼 Professional Experience 💼</h2>
 
-### HP | Big Data & AI Engineer  
+### 📌 HP | Big Data & AI Engineer  
 **Valencia, Spain** • Jan. 2024 – Jul. 2024  
 - **Predictive Modeling:** Implemented and trained Machine Learning models for time series, successfully forecasting sales scenarios for consumables and optimizing commercial planning.  
 - **Application Development:** Developed a Python application integrating predictive models to facilitate sales projections and improve decision-making.  
@@ -145,7 +145,7 @@
 
 ---
 
-### NTT DATA | Artificial Intelligence Engineer  
+### 📌 NTT DATA | Artificial Intelligence Engineer  
 **Valencia, Spain** • Sep. 2023 – Dec. 2023  
 - **Automated Classification:** Trained neural networks to classify Jira tickets, reducing response times.  
 - **Task Automation:** Implemented solutions with Azure AI Services (OCR, Whisper, OpenAI) to automate repetitive tasks.  
@@ -154,7 +154,7 @@
 
 ---
 
-### VRAIN - Valencian Research Institute for Artificial Intelligence | Researcher  
+### 📌 VRAIN - Valencian Research Institute for Artificial Intelligence | Researcher  
 **Valencia, Spain** • Apr. 2023 – Jul. 2023  
 - **Genomic Data Integration:** Unified ClinVar data for research analysis.  
 - **Extraction Automation:** Automated genetic information extraction using Apache NiFi and JOLT.
