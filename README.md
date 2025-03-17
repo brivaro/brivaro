@@ -35,7 +35,7 @@
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
-<div>
+<div align="center">
 <table>
   <tr>
     <th>AI/ML</th>
