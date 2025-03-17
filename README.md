@@ -134,37 +134,52 @@
 
 <h2 align="center">💼 Professional Experience 💼</h2>
 
-### HP | Big Data & AI Engineer | Valencia, España (Ene. 2024 – Jul. 2024)
-- Implemented and trained Machine Learning models for time series forecasting, optimizing sales planning.
-- Developed a Python application to integrate predictive models, enhancing decision-making efficiency.
-- Conducted data engineering and analysis using Python, Databricks, and SQL, improving visualizations in Power BI.
-- Created video tutorials to train employees on analytics tools like Power BI and Thoughtspot.
-- Fine-tuned Large Language Models (LLM) using H2O studio for internal tasks.
+### HP | Big Data & AI Engineer  
+**Valencia, Spain** • Jan. 2024 – Jul. 2024  
+- **Predictive Modeling:** Implemented and trained Machine Learning models for time series, successfully forecasting sales scenarios for consumables and optimizing commercial planning.  
+- **Application Development:** Developed a Python application integrating predictive models to facilitate sales projections and improve decision-making.  
+- **Data Analysis:** Conducted data engineering and analysis using Python (Pandas, Numpy, Scikit-learn, Statsmodels, PyTorch, Keras…) and Databricks, enhancing visualizations in Power BI and optimizing SQL database modeling.  
+- **Internal Training:** Produced video tutorials to train employees on analytical tools like Power BI and ThoughtSpot, increasing autonomy in the use of these technologies.  
+- **Version Control:** Managed data governance and version control with GIT.  
+- **LLM Optimization:** Fine-tuned language models (LLM) using H2O Studio, improving their accuracy for specific internal tasks.
 
-### NTT DATA | Artificial Intelligence Engineer | Valencia, España (Sep. 2023 – Dic. 2023)
-- Trained neural networks to classify Jira tickets, optimizing response times.
-- Automated repetitive tasks with Azure AI Services (OCR, Whisper, OpenAI).
-- Built applications with Microsoft PowerPlatform to improve internal processes.
+---
 
-### VRAIN | Researcher | Valencia, España (Abr. 2023 – Jul. 2023)
-- Integrated ClinVar genomic data for research analysis.
-- Automated genetic data extraction with Apache NiFi and JOLT.
+### NTT DATA | Artificial Intelligence Engineer  
+**Valencia, Spain** • Sep. 2023 – Dec. 2023  
+- **Automated Classification:** Trained neural networks to classify Jira tickets, reducing response times.  
+- **Task Automation:** Implemented solutions with Azure AI Services (OCR, Whisper, OpenAI) to automate repetitive tasks.  
+- **Application Development:** Developed applications using Microsoft PowerPlatform to optimize internal processes.  
+- **Image Recognition:** Led an image recognition project to enhance visual data management.
+
+---
+
+### VRAIN - Valencian Research Institute for Artificial Intelligence | Researcher  
+**Valencia, Spain** • Apr. 2023 – Jul. 2023  
+- **Genomic Data Integration:** Unified ClinVar data for research analysis.  
+- **Extraction Automation:** Automated genetic information extraction using Apache NiFi and JOLT.
 
 <br/>
 <hr/>
 
 <h2 align="center">🎓 Education 🎓</h2>
 
-**Universidad Politécnica de Valencia**
-- Máster Ingeniería Informática (¿Matrícula de Honor en el Trabajo de Fin de Máster? may be)
-- Finished: Not yet
-
-**Universidad Politécnica de Valencia**
-- Grado Ingeniería Informática (Matrícula de Honor en el Trabajo de Fin de Grado)
-- Graduated: Jun. 2024
+**Polytechnic University of Valencia**  
+- **Master’s in Computer Engineering** (In progress)  
+  - *Honor Distinction in the Master’s Thesis?! We’ll see*  
+- **Bachelor’s in Computer Engineering** • Graduated in June 2024  
+  - *Honor Distinction in the Bachelor’s Thesis* (TFG: Sales scenario prediction for large-format printers)
 
 <br/>
 <hr/>
+
+<h2 align="center"> Professional Objective 🎯 <h2/>
+
+I am a Computer Engineer specializing in Artificial Intelligence and Machine Learning, with over **1 year of experience** in the Big Data & AI field. My expertise ranges from data process automation to the integration and deployment of predictive models, enabling tech companies to optimize strategic decision-making.
+
+<br/>
+<hr/>
+
 
 <h2 align="center">🎖️ Awards and Recognitions 🎖️</h2>
 
@@ -185,6 +200,12 @@
     └── 2014-2018/
         └── Extraordinary Academic Performance Award (Primary, Secondary, High School) 🏅🎓
 
+---
+
+### 🧐 Other Achievements 🧐
+- **Honor Distinction in Bachelor’s Thesis:** Recognized for developing a predictive model at HP to forecast consumable sales.  
+- **Innovation in Big Data & AI:** Implemented solutions that optimized strategic processes in technological environments.  
+- **Scientific Outreach:** Managing a YouTube channel with over 16,000 followers, strengthening communication, leadership, and management skills.  
 
 <br/>
 <hr/>
@@ -215,6 +236,16 @@
         </div>
     </div>
 </div>
+
+---
+
+### ✅ Additional Skills ✅
+
+- **Automation:** Experience in deploying Kubernetes clusters with Ansible, Docker, Docker Swarm.  
+- **Communication & Collaboration:** Proven ability to work in multidisciplinary teams and collaborative environments.  
+- **Leadership & Project Management:** Experience in leading teams and coordinating technological initiatives.  
+- **Adaptability & Continuous Learning:** Committed to innovation and ongoing learning in new technologies.  
+- **Languages:** Spanish (native), Valencian (C1), and English (B2).  
 
 <br/>
 <hr/>
