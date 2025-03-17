@@ -108,7 +108,7 @@
 
 ### Testing
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="jest logo" />
 </div>
 
 
