@@ -162,6 +162,13 @@
 <br/>
 <hr/>
 
+<h2>🎯 Professional Objective 🎯</h2>
+
+I am a Computer Engineer specializing in Artificial Intelligence and Machine Learning, with over **1 year of experience** in the Big Data & AI field. My expertise ranges from data process automation to the integration and deployment of predictive models, enabling tech companies to optimize strategic decision-making.
+
+<br/>
+<hr/>
+
 <h2>🎓 Education 🎓</h2>
 
 **Polytechnic University of Valencia**  
@@ -172,14 +179,6 @@
 
 <br/>
 <hr/>
-
-<h2>🎯 Professional Objective 🎯</h2>
-
-I am a Computer Engineer specializing in Artificial Intelligence and Machine Learning, with over **1 year of experience** in the Big Data & AI field. My expertise ranges from data process automation to the integration and deployment of predictive models, enabling tech companies to optimize strategic decision-making.
-
-<br/>
-<hr/>
-
 
 <h2>🎖️ Awards and Recognitions 🎖️</h2>
 
@@ -256,7 +255,6 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
   <img src="https://github-readme-stats.vercel.app/api?username=brivaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brivaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 <br/>
 <hr/>
