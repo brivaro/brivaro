@@ -201,8 +201,7 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
     │   └── Stay with an English Family 🛫
     └── 2014-2018/
         └── Extraordinary Academic Performance Award (Primary, Secondary, High School) 🏅🎓
-
----
+<br/>
 
 ### 🧐 Other Achievements 🧐
 - **Honor Distinction in Bachelor’s Thesis:** Recognized for developing a predictive model at HP to forecast consumable sales.  
@@ -238,8 +237,7 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
         </div>
     </div>
 </div>
-
----
+<br/>
 
 ### ✅ Additional Skills ✅
 
