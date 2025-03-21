@@ -31,7 +31,7 @@
   <a href="https://brivaro.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My_3D_Island-CV?style=for-the-badge&logo=boAt&logoColor=white" target="_blank" />
   </a>
-  <a href="https://youtuve.com/@mrryanoficial" target="_blank">
+  <a href="https://youtube.com/@mrryanoficial" target="_blank">
     <img src="https://img.shields.io/badge/Channel-#FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
 </div>
