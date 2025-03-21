@@ -147,16 +147,12 @@
 - **Version Control:** Managed data governance and version control with GIT.  
 - **LLM Optimization:** Fine-tuned language models (LLM) using H2O Studio, improving their accuracy for specific internal tasks.
 
----
-
 ### 📌 NTT DATA | Artificial Intelligence Engineer  
 **Valencia, Spain** • Sep. 2023 – Dec. 2023  
 - **Automated Classification:** Trained neural networks to classify Jira tickets, reducing response times.  
 - **Task Automation:** Implemented solutions with Azure AI Services (OCR, Whisper, OpenAI) to automate repetitive tasks.  
 - **Application Development:** Developed applications using Microsoft PowerPlatform to optimize internal processes.  
 - **Image Recognition:** Led an image recognition project to enhance visual data management.
-
----
 
 ### 📌 VRAIN - Valencian Research Institute for Artificial Intelligence | Researcher  
 **Valencia, Spain** • Apr. 2023 – Jul. 2023  
