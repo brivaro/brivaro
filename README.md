@@ -272,7 +272,9 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
 <hr/>
 
 <div align="center">
-<a href='https://github.com/brivaro/brivaro/blob/main/images/qrcode.png' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://github.com/brivaro/brivaro/blob/main/images/qrcode.png' target='_blank'>
+        <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
 </div>
 
 <br/>
