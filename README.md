@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/brian-valiente-rodenas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=livejournal&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/SantiagoS2109/404-not-found-page/blob/main/index.html" target="_blank">
+  <a href="https://github.com/brivaro/brivaro.github.io/blob/main/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank" />
   </a>
   <a href="https://brivaro.github.io" target="_blank">
