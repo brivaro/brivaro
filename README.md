@@ -67,22 +67,6 @@
     </td>
   </tr>
   <tr>
-    <th>Databases</th>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-      <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
-      <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-      <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
-    </td>
-  </tr>
-  <tr>
     <th>Frontend</th>
     <th>DevOps</th>
   </tr>
@@ -121,6 +105,22 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="3js logo" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <th>Backend</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+      <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+      <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
     </td>
   </tr>
   <tr>
