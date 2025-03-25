@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Brian!;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Brian+Valiente+Rodenas!;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <h3 align="center">📊 Big Data & AI Engineer | 🧪 Science Communicator | 🚀 Business | 🌍 Lifelong Learner</h3>
