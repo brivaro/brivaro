@@ -120,6 +120,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring boot logo" />
       <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
       <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
     </td>
