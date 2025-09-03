@@ -146,6 +146,13 @@
 <h2>💼 Professional Experience 💼</h2>
 <br/>
 
+### 📌 INDITEX | Generative AI & Data Engineer
+**Valencia, Spain** • Feb. 2025 – Jul. 2025
+- **Microservices Development:** Built microservices in Java Spring Boot and Python FastAPI to index corporate data into vector stores, improving response accuracy in RAG architectures, function calling, MCP, and AI agent workflows.
+- **Semantic Enrichment:** Enhanced corporate data through knowledge graph modeling in Neo4j, enabling more informed decision-making and stronger connections between business assets.
+- **Data Governance & Deployment:** Managed environments, data governance, and version control with GitHub, including integration of new features into internal repositories, testing, deployments, and containerization with Docker and Kubernetes.
+<br/>
+
 ### 📌 HP | Big Data & AI Engineer  
 **Valencia, Spain** • Jan. 2024 – Jul. 2024  
 - **Predictive Modeling:** Implemented and trained Machine Learning models for time series, successfully forecasting sales scenarios for consumables and optimizing commercial planning.  
