@@ -181,7 +181,7 @@
 
 <h2>🎯 Professional Objective 🎯</h2>
 
-I am a Computer Engineer specializing in Artificial Intelligence and Machine Learning, with over **1 year of experience** in the Big Data & AI field. My expertise ranges from data process automation to the integration and deployment of predictive models, enabling tech companies to optimize strategic decision-making.
+I am a Computer Engineer specializing in Artificial Intelligence and Machine Learning, with over **2 year of experience** in the Big Data & AI field. My expertise ranges from data process automation to the integration and deployment of predictive models, enabling tech companies to optimize strategic decision-making.
 
 <br/>
 <hr/>
