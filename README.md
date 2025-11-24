@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Channel-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
     <a href="https://mr-ryan-oficial.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/MrRyan_Web-blue?style=for-the-badge&logo=internet&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/MrRyan_Web-blue?style=for-the-badge&logo=gotomeeting&logoColor=white" target="_blank" />
   </a>
 </div>
 
