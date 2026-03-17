@@ -167,10 +167,10 @@ I am a Computer Engineer specializing in Artificial Intelligence and Machine Lea
 <h2>🎓 Education 🎓</h2>
 
 **Polytechnic University of Valencia**  
-- **Master’s in Computer Engineering** (In progress)  
-  - *Honor Distinction in the Master’s Thesis?! We’ll see*  
+- **Master’s in Computer Engineering**
+  - *Honor Distinction in the Master’s Thesis*  (TFM: Semantic Enrichment Microservice for Vector Stores in Corporate RAG Data Ecosystems)
 - **Bachelor’s in Computer Engineering** • Graduated in June 2024  
-  - *Honor Distinction in the Bachelor’s Thesis* (TFG: Sales scenario prediction for large-format printers)
+  - *Honor Distinction in the Bachelor’s Thesis* (TFG: Sales scenario prediction/forecasting for large-format printers)
 
 <br/>
 <hr/>
