@@ -9,11 +9,11 @@
 
 <div align="center">
  
-🔭 I’m currently working on **Computer Engineering Master, AI and Big Data Technologies**
+🔭 I’m currently working on **Agent skills, AI and developing a Youtube/SSRR ERP for my youtube channel**
  
-🌱 I’m currently learning **Kubernetes, APISIX, Advanced Docker Networking**
+🌱 I’m currently learning **AI Agents, Docker, Open-Source models, Advanced Docker Networking**
 
-💬 Ask me about **Machine Learning, Data Engineering, or Open Source Projects**
+💬 Ask me about **Machine Learning, Data Engineering, AI Projects**
 
 ⚡ Fun fact **I manage a science channel with over 16K followers!**
 
@@ -147,9 +147,13 @@
 <br/>
 <hr/>
 
-<h2>💼 Professional Experience 💼 </h2>
+<h2>💼 Professional Experience</h2>
 
-### 🔥 [Portfolio](https://brivaro-portfolio.vercel.app/)
+<p>Explore my work, projects, and results in detail:</p>
+
+<a href="https://brivaro-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  🔥 View Portfolio
+</a>
 
 <hr/>
 
