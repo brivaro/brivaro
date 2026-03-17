@@ -147,40 +147,8 @@
 <br/>
 <hr/>
 
-<h2>💼 Professional Experience 💼</h2>
-<br/>
+<h2>💼 Professional Experience 💼 [Portfolio](https://brivaro-portfolio.vercel.app/) </h2>
 
-### 📌 INDITEX | Generative AI & Data Engineer
-**Valencia, Spain** • Feb. 2025 – Jul. 2025
-- **Microservices Development:** Built microservices in Java Spring Boot and Python FastAPI to index corporate data into vector stores, improving response accuracy in RAG architectures, function calling, MCP, and AI agent workflows.
-- **Semantic Enrichment:** Enhanced corporate data through knowledge graph modeling in Neo4j, enabling more informed decision-making and stronger connections between business assets.
-- **Data Governance & Deployment:** Managed environments, data governance, and version control with GitHub, including integration of new features into internal repositories, testing, deployments, and containerization with Docker and Kubernetes.
-<br/>
-
-### 📌 HP | Big Data & AI Engineer  
-**Valencia, Spain** • Jan. 2024 – Jul. 2024  
-- **Predictive Modeling:** Implemented and trained Machine Learning models for time series, successfully forecasting sales scenarios for consumables and optimizing commercial planning.  
-- **Application Development:** Developed a Python application integrating predictive models to facilitate sales projections and improve decision-making.  
-- **Data Analysis:** Conducted data engineering and analysis using Python (Pandas, Numpy, Scikit-learn, Statsmodels, PyTorch, Keras…) and Databricks, enhancing visualizations in Power BI and optimizing SQL database modeling.  
-- **Internal Training:** Produced video tutorials to train employees on analytical tools like Power BI and ThoughtSpot, increasing autonomy in the use of these technologies.  
-- **Version Control:** Managed data governance and version control with GIT.  
-- **LLM Optimization:** Fine-tuned language models (LLM) using H2O Studio, improving their accuracy for specific internal tasks.
-<br/>
-
-### 📌 NTT DATA | Artificial Intelligence Engineer  
-**Valencia, Spain** • Sep. 2023 – Dec. 2023  
-- **Automated Classification:** Trained neural networks to classify Jira tickets, reducing response times.  
-- **Task Automation:** Implemented solutions with Azure AI Services (OCR, Whisper, OpenAI) to automate repetitive tasks.  
-- **Application Development:** Developed applications using Microsoft PowerPlatform to optimize internal processes.  
-- **Image Recognition:** Led an image recognition project to enhance visual data management.
-<br/>
-
-### 📌 VRAIN - Valencian Research Institute for Artificial Intelligence | Researcher  
-**Valencia, Spain** • Apr. 2023 – Jul. 2023  
-- **Genomic Data Integration:** Unified ClinVar data for research analysis.  
-- **Extraction Automation:** Automated genetic information extraction using Apache NiFi and JOLT.
-
-<br/>
 <hr/>
 
 <h2>🎯 Professional Objective 🎯</h2>
