@@ -147,7 +147,9 @@
 <br/>
 <hr/>
 
-<h2>💼 Professional Experience 💼 [Portfolio](https://brivaro-portfolio.vercel.app/) </h2>
+<h2>💼 Professional Experience 💼 </h2>
+
+### 🔥 [Portfolio](https://brivaro-portfolio.vercel.app/)
 
 <hr/>
 
